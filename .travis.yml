@@ -1,4 +1,7 @@
 language: python
+dist: bionic
+arch:
+    - arm64
 os: linux
 env:
   global:
